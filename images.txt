@@ -9,3 +9,5 @@ php
 httpd
 tomcat
 anmour/bncr
+centos
+ubuntu
