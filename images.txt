@@ -11,3 +11,4 @@ tomcat
 anmour/bncr
 centos
 ubuntu
+jellyfin/jellyfin
