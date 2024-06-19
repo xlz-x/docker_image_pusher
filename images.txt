@@ -12,3 +12,4 @@ anmour/bncr
 centos
 ubuntu
 jellyfin/jellyfin
+hdbjlizhe/autman
