@@ -13,4 +13,4 @@ centos
 ubuntu
 jellyfin/jellyfin
 hdbjlizhe/autman
-islasgeci/homepage
+simonszu/homepage
