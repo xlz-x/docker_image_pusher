@@ -14,4 +14,4 @@ ubuntu
 jellyfin/jellyfin
 hdbjlizhe/autman
 simonszu/homepage
-xieshang1111/auto_spy
+portainer/portainer
