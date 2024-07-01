@@ -16,3 +16,4 @@ hdbjlizhe/autman
 simonszu/homepage
 portainer/portainer
 halcyonazure/lsky-pro-docker
+nastool/nas-tools
